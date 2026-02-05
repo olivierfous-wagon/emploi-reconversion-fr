@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnement / secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Credentials cloud (important)
+*.json
+*.key
+EOF
