@@ -12,7 +12,7 @@ venv/
 .env.*
 
 # Data
-data/raw/
+data/
 
 # macOS
 .DS_Store
