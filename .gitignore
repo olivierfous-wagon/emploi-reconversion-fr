@@ -6,6 +6,7 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+!notebooks/*.ipynb
 
 # Environnement / secrets
 .env
